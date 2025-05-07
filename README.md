@@ -87,9 +87,6 @@
     <p><strong>Instagram:</strong> <a href="https://instagram.com/Vick1___" target="_blank">@Vick1___</a></p>
     <a class="whatsapp-btn" href="https://wa.me/541140986516" target="_blank">Enviar mensaje por WhatsApp</a>
   </div>
-
-  body {background: url('https://i.imgur.com/hmGJ3US.jpg') no-repeat center center fixed; background-size: cover;
-
   <footer>
     &copy; 2025 VickNails - Todos los derechos reservados
   </footer>
