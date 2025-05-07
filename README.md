@@ -88,13 +88,7 @@
     <a class="whatsapp-btn" href="https://wa.me/541140986516" target="_blank">Enviar mensaje por WhatsApp</a>
   </div>
 
-  <h2>Galería de Diseños</h2>
-  <div class="galeria">
-    <img src="https://via.placeholder.com/200x250?text=Screenshot_20230408-195028~2.png" Esculpidas>
-    <img src="https://via.placeholder.com/200x250?text=Screenshot_20220915-212841~3.png" alt="Soft Gel>
-    <img src="https://via.placeholder.com/200x250?text=Uñas+3" alt="Diseño 3">
-    <img src="https://via.placeholder.com/200x250?text=Uñas+4" alt="Diseño 4">
-  </div>
+  body {background: url('https://i.imgur.com/hmGJ3US.jpg') no-repeat center center fixed; background-size: cover;
 
   <footer>
     &copy; 2025 VickNails - Todos los derechos reservados
