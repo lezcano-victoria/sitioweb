@@ -84,8 +84,8 @@
 
   <h2>Galería de Diseños</h2>
   <div class="galeria">
-    <img src="https://via.placeholder.com/200x250?text=Uñas+1" alt="Diseño 1">
-    <img src="https://via.placeholder.com/200x250?text=Uñas+2" alt="Diseño 2">
+    <img src="https://via.placeholder.com/200x250?text=Uñas+1" alt=Screenshot_20230408-195028~2.png>
+    <img src="https://via.placeholder.com/200x250?text=Uñas+2" alt="Screenshot_20220915-212841~3.png">
     <img src="https://via.placeholder.com/200x250?text=Uñas+3" alt="Diseño 3">
     <img src="https://via.placeholder.com/200x250?text=Uñas+4" alt="Diseño 4">
   </div>
